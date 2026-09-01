@@ -502,5 +502,5 @@ De esta manera, el cambio de tecnología de persistencia no obliga a reescribir 
 Repositorio público de GitHub:
 
 ```text
-Agregar aquí la URL del repositorio público antes de entregar.
+https://github.com/Carlos110900/Evolucion_API_CCS.git
 ```
